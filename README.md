@@ -1,6 +1,6 @@
 # COGITATE_ASSESSMENTS_TASK_1_2_3_4
 
-#Data Science Assignment for Cogitate Company
+Data Science Assignment for Cogitate Technology Solutions
 This repository contains the completed tasks for a data science assignment given by Cogitate Company. The tasks involved working with SQL databases to manipulate and query data.
 
 Tasks Overview
